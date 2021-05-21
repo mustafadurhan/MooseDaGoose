@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MooseDaGoose
+- 👋 Hi, I’m @mustafadurhan
 - 👀 I’m interested in ... Application & UI Development
 - 🌱 I’m currently learning ... Python & Javascript
 - 📫 How to reach me ... mustafa.durhan36@gmail.com
